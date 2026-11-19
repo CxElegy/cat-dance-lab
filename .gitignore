@@ -4,3 +4,4 @@ output/dashboard.html
 data/raw/*_images/
 .env
 *.mp4
+__pycache__/
