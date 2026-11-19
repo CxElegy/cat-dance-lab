@@ -1,0 +1,6 @@
+# internal-only material (repo is public)
+output/thumbs/
+output/dashboard.html
+data/raw/*_images/
+.env
+*.mp4

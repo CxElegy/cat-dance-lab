@@ -1,0 +1,12 @@
+timestamp_utc,tool,credits_cost,balance_before,balance_after,purpose
+2026-11-17,vidiq_instagram_tiktok_outlier_search,5,150,145,original search (recorded by user; raw file)
+2026-11-19T00:33:00Z,vidiq_instagram_tiktok_outlier_search,5,145,140,supp1: same query; 60/platform; exclude 73 known IDs (raw paste truncated after TikTok #13)
+2026-11-19T00:40:00Z,vidiq_instagram_tiktok_outlier_search,5,140,135,supp2: query 'kling ai cat dance'; 60/platform; exclude 100 known IDs
+2026-11-19T00:55:00Z,vidiq_watch_shortform_content,10,135,125,watermark check ramonsimonlebron:DeOzj_FSc6F
+2026-11-19T00:55:00Z,vidiq_watch_shortform_content,10,125,115,watermark check cilekli.don:DeZjL2MIm_h
+2026-11-19T00:55:00Z,vidiq_watch_shortform_content,10,115,105,watermark check he.became.home:De2Vm4ez387
+2026-11-19T00:55:00Z,vidiq_watch_shortform_content,10,105,95,watermark check honge._.sz:Dds3ztERIYe
+2026-11-19T00:55:00Z,vidiq_watch_shortform_content,10,95,85,watermark check memepostors:Dfz9N0CKENM
+2026-11-19T00:55:00Z,vidiq_watch_shortform_content,10,85,75,watermark check oscar_beingoscar:7699555408309964033
+2026-11-19T00:55:00Z,vidiq_watch_shortform_content,10,75,65,watermark check meovv_jerry:DdnaNCqzgkq
+2026-11-19T00:55:00Z,vidiq_watch_shortform_content,10,65,55,watermark check kikois__:DftLk2tByA7

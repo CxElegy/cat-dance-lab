@@ -1,0 +1,54 @@
+{
+ "DfKTpM9iHJ7": {
+  "model": "Kling",
+  "confidence": "confirmed",
+  "evidence": "cover watermark bottom-right: 'KlingAI 4.0'"
+ },
+ "Dd1dfJmy-Aq": {
+  "model": "Kling",
+  "confidence": "confirmed",
+  "evidence": "cover watermark bottom-right: 'KlingAI 3.0 Omni' (repost of @thebaileytales)"
+ },
+ "Dc4nAcoza5V": {
+  "model": "Kling",
+  "confidence": "confirmed",
+  "evidence": "cover watermark bottom-right: 'KlingAI'"
+ },
+ "DerFCEayNS3": {
+  "model": "CapCut template",
+  "confidence": "confirmed",
+  "evidence": "cover watermark top-left: 'CapCut AI'"
+ },
+ "DeOzj_FSc6F": {
+  "model": "",
+  "evidence": "watch_shortform 2026-11-19: no watermark/AI label in any corner; AI confirmed (human-like fingers on paws, biped K-pop moves, edge melting)"
+ },
+ "DeZjL2MIm_h": {
+  "model": "",
+  "evidence": "watch_shortform 2026-11-19: no watermark/AI label in any corner; AI confirmed (fur pattern appears from nowhere on white kitten, morphing paws)"
+ },
+ "De2Vm4ez387": {
+  "model": "",
+  "evidence": "watch_shortform 2026-11-19: no watermark/AI label in any corner; AI confirmed (paw turns into thumbs-up human hand; green-screen plate)"
+ },
+ "Dds3ztERIYe": {
+  "model": "",
+  "evidence": "watch_shortform 2026-11-19: no watermark/AI label in any corner; AI confirmed (body melts/morphs during fast motion; diffusion smear)"
+ },
+ "Dfz9N0CKENM": {
+  "model": "",
+  "evidence": "watch_shortform 2026-11-19: no watermark/AI label in any corner; AI confirmed (on-screen text \"Dance motion\" only; motion-transfer look)"
+ },
+ "7699555408309964033": {
+  "model": "",
+  "evidence": "watch_shortform 2026-11-19: no watermark/AI label in any corner; AI confirmed (kittens morph out of each other at entry; foot sliding)"
+ },
+ "DdnaNCqzgkq": {
+  "model": "",
+  "evidence": "watch_shortform 2026-11-19: no watermark/AI label in any corner; AI confirmed (fused/extra digits, liquid paw morphing)"
+ },
+ "DftLk2tByA7": {
+  "model": "",
+  "evidence": "watch_shortform 2026-11-19: no watermark/AI label in any corner; AI confirmed (jewellery clipping, paw morphing)"
+ }
+}
